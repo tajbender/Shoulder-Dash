@@ -270,5 +270,9 @@ Dependencies are falling from the sky.
 
 Can you reach the Exit Build before technical debt crushes you?
 
+------
+
+(c) 2026 tajbender. some portions may be created by a.i. - May the Force be with you!
+
 Shoulder-Dash.
 For Lorraine Computers.
