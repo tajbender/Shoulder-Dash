@@ -71,6 +71,19 @@ Equivalent to classic gems or diamonds.
 
 ---
 
+### Features
+
+- Crush bugs with falling dependencies
+- Collect productivity before the deadline
+- Navigate ancient source repositories
+- Trigger large dependency cascades
+- Survive dangerous merge conflicts
+- Discover hidden documentation
+- Experience authentic software engineering pain
+- AGA enhanced
+
+---
+
 ### Dependencies
 
 Heavy package crates that obey gravity.
@@ -245,3 +258,17 @@ Discover that a critical issue has just been reported by a customer.
 
 To be continued...
 
+------
+
+# Marketing
+
+The year is 1996.
+Production is on fire.
+The documentation is missing.
+The build server is down.
+Dependencies are falling from the sky.
+
+Can you reach the Exit Build before technical debt crushes you?
+
+Shoulder-Dash.
+For Lorraine Computers.
